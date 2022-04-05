@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - (KOTLIN, MVVM, JAVA, HADOOP ... etc.)
   
 - 2021
-  - Android Developer - B:um : My own Stress trash can
+  - Android Developer - B:um : 내 손 안의 스트레스 휴지통
   - 대학생 연합 IT 벤처 창업 동아리 SOPT 28th - Android Development
   - [외주] Front'end & Back'end Developer - 동덕여자대학교 중앙동아리연합 Online FleaMarket Webpage
   - Front'end & Back'end Developer - Yanado : 의류 경매, 공동구매 서비스
