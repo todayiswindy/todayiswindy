@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=ANDROID&logoColor=white"/> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"/> <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=LINUX&logoColor=white"/> <img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat-square&logo=APACHEHADOOP&logoColor=white"/><br><br>
 
 #### 💻 PROJECTS
-- 2022
+- <b><i>2022</i></b>
   - 🌱 I’m currently learning ... <br>
   - (KOTLIN, MVVM, JAVA, HADOOP ... etc.)
   
-- 2021
+- <b><i>2021</i></b>
   - Android Developer - B:um : 내 손 안의 스트레스 휴지통
   - 대학생 연합 IT 벤처 창업 동아리 SOPT 28th - Android Development
   - [외주] Front'end & Back'end Developer - 동덕여자대학교 중앙동아리연합 Online FleaMarket Webpage
   - Front'end & Back'end Developer - Yanado : 의류 경매, 공동구매 서비스
   - Trainee of SSAC(Seoul Software Academy Cluster) - Android Development
   
-- 2020
+- <b><i>2020</i></b>
   - Front'end & Back'end Developer - Somdongzi : 유기동물 매칭 입양 서비스
