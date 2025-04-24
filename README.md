@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -31,8 +31,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /><a href="https://www.instagram.com/jiyeooonee/">
+  <img src="https://img.shields.io/static/v1?message=Velog&logo=velog&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="velog logo"  /><a href="https://velog.io/@morgankim">
+  <img src="https://img.shields.io/static/v1?message=Tistory&logo=tistory&label=&color=20C997&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tistory logo"  /><a href="https://m5rgank2m.tistory.com/">
 </div>
 
 ###
