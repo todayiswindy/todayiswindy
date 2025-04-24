@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 -->
 
 #### 💡 ME?
-<a href="https://www.instagram.com/jiyeooonee/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=white"/></a> <a href="https://velog.io/@morgankim"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=VELOG&logoColor=white"/></a> <a href="https://m5rgank2m.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logoColor=white"/>
-출처: https://harumini.tistory.com/100 [데이터 엔지니어의 솔로 레벨업 🌱:티스토리]<br><br>
+<a href="https://www.instagram.com/jiyeooonee/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=white"/></a> <a href="https://velog.io/@morgankim"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=VELOG&logoColor=white"/></a> <a href="https://m5rgank2m.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=TISTORY&logoColor=white"/>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todayiswindy)](https://github.com/todayiswindy/github-readme-stats)
