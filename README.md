@@ -1,10 +1,13 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=todayiswindy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=todayiswindy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=todayiswindy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/todayiswindy"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 ###
@@ -32,12 +35,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /><a href="https://www.instagram.com/jiyeooonee/">
-  <img src="https://img.shields.io/static/v1?message=Velog&logo=velog&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="velog logo"  /><a href="https://velog.io/@morgankim">
-  <img src="https://img.shields.io/static/v1?message=Tistory&logo=tistory&label=&color=20C997&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tistory logo"  /><a href="https://m5rgank2m.tistory.com/">
+  <a href="https://www.instagram.com/jiyeooonee/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <a href="https://velog.io/@morgankim"><img src="https://img.shields.io/static/v1?message=Velog&logo=velog&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="velog logo"  />
+  <a href="https://m5rgank2m.tistory.com/"><img src="https://img.shields.io/static/v1?message=Tistory&logo=tistory&label=&color=20C997&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tistory logo"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=todayiswindy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=todayiswindy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br clear="both">
 
