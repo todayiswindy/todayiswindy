@@ -1,15 +1,5 @@
 ## 👋 Hi, I'm Jiyeon !
 
-<br>
-🌬🍃🌪
-<br><br><br>
-
-### Final vocabulary : 성취
-#### 하루하루 계획을 세우고 목표를 성취해나가는,
-#### 다정한 마음으로,
-#### 사회에 선한 영향력을 펼칠 수 있는 역량을 가진 사람
-<br><br>
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/todayiswindy"
@@ -18,13 +8,6 @@
 />
 </a>
 <br><br>
-
-### 🤸 저는
-#### “시스템 흐름을 먼저 그리는 개발자입니다.”
-#### “작은 기능 하나에도 '왜 필요한가'를 먼저 묻는 타입입니다.”
-#### “함께 일하고 싶은 사람이 되고 싶습니다.”
-<br>
-
 
 #### 🔨 Skills
 <div>
@@ -67,16 +50,6 @@
   <a href="https://m5rgank2m.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/>
 </div>
 <br><br>
-
-
-
-| 🎸 | 🎶 | 🌈 |
-|----|----|----|
-| <img src="https://github.com/user-attachments/assets/ba28ef15-0ada-4ea6-9854-09354b14900f" width="300"> | <img src="https://github.com/user-attachments/assets/aae18906-dbcd-44f4-a82f-086215d4ab87" width="300"> | <img src="https://github.com/user-attachments/assets/c690d6f6-9e74-4ebe-ae49-5728ae571ef8" width="300"> |
-| 🐱 | 🐈 | 🫶🏻 | 
-| <img src="https://github.com/user-attachments/assets/32de0301-8675-4046-8da5-35689ba901df" width="300">" | <img src="https://github.com/user-attachments/assets/de72b9be-230e-414f-8caa-8ad4ec31ccca" width="300"> | <h1 align = "center">F? T?</h1> |
-
-
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todayiswindy)](https://github.com/todayiswindy/github-readme-stats)
