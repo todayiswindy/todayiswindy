@@ -61,6 +61,15 @@
   <a href="https://velog.io/@morgankim"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white"/></a>
   <a href="https://m5rgank2m.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/>
 </div>
+<br><br>
+
+
+| 🎸 | 🎶 | 🌈 |
+|----|----|----|
+| <img src="https://github.com/user-attachments/assets/ba28ef15-0ada-4ea6-9854-09354b14900f" width="300"> | <img src="https://github.com/user-attachments/assets/aae18906-dbcd-44f4-a82f-086215d4ab87" width="300"> | <img src="https://github.com/user-attachments/assets/c690d6f6-9e74-4ebe-ae49-5728ae571ef8" width="300"> |
+| 🐱 | 🐈 | 🫶🏻 | 
+| <img src="https://github.com/user-attachments/assets/32de0301-8675-4046-8da5-35689ba901df" width="300">" | <img src="https://github.com/user-attachments/assets/de72b9be-230e-414f-8caa-8ad4ec31ccca" width="300"> | <img src="https://github.com/user-attachments/assets/100f2a44-a5bb-451b-bad9-07649d58b670" width="300"> |
+
 
 
 <!--
