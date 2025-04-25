@@ -4,6 +4,11 @@
 🌬🍃🌪
 <br><br><br>
 
+### Final vocabulary : 성취
+#### 하루하루 계획을 세우고 목표를 성취해나가는,
+#### 다정한 마음으로,
+#### 사회에 선한 영향력을 펼칠 수 있는 역량을 가진 사람
+<br><br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
