@@ -1,7 +1,3 @@
-# Hi
-# I'm
-# Jiyeon
-
 ## 👋 Hi, I'm Jiyeon !
 
 <a href="https://github.com/devxb/gitanimals">
