@@ -1,13 +1,33 @@
 ## 👋 Hi, I'm Jiyeon !
 
-<a href="https://github.com/devxb/gitanimals">
+<!-- <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/todayiswindy"
   width="600"
   height="300"
 />
 </a>
-<br><br>
+<br><br> -->
+
+#### 💼 Internship
+- **신한투자증권 정보시스템부**, *2025.11 - 2025.12*
+- **한국산업은행 코어금융부 트레이딩팀**, *2024.10 - 2025.01*
+
+#### 💻 Projects
+- **[Modular1](https://github.com/4-wheel-drive)** : Block UI 기반 자동감시매매 서비스 - Back'end Developer, *2025*
+- **[ETF(Easy To Find)](https://github.com/EasyToFind-ETF/easyToFind-Backend)** : 개인화 기반 ETF 탐색·추천·시뮬레이션 플랫폼 - Back'end Developer, *2025*
+- **[B:um](https://github.com/TeamB-um/B-umAndroid)** : 내 손 안의 스트레스 휴지통 - Android Developer, *2021*
+- **[Online FleaMarket](링크)** : 동덕여자대학교 중앙동아리연합 주최 온라인 플리마켓 행사 개발 및 운영 - Back'end Developer, *2021*
+- **[Yanado](링크)** : 경매, 공동구매 서비스 - Back'end Developer, *2021*
+- **[Somdongzi](링크)** : 유기동물 매칭 입양 서비스 - Back'end Developer, *2020*
+
+#### 📖 Education
+- **신한투자증권 프로 디지털 아카데미** - Fintech, *2025*
+- **SSAC(Seoul Software Academy Cluster)** - Android Development, *2021*
+
+#### 🏄🏻‍♀️ Club
+- **대학생 연합 IT 벤처 창업 동아리 SOPT 28th** - Android Development, *2021*
+- **SK 대학생 자원봉사단 SUNNY** - Leader, *2018 - 2019*
 
 #### 🔨 Skills
 <div>
@@ -19,37 +39,17 @@
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=ANDROID&logoColor=white"/>
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=KOTLIN&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div><br>
+</div>
 
-
-#### 💻 Projects
-- <b>B:um : 내 손 안의 스트레스 휴지통</b> - Android Developer, <em>2021</em><br>
-- <b>[외주] 동덕여자대학교 중앙동아리연합 Online FleaMarket Webpage</b> - Front'end & Back'end Developer, <em>2021</em><br>
-- <b>Yanado : 경매, 공동구매 서비스</b> - Front'end & Back'end Developer, <em>2021</em><br>
-- <b>Somdongzi : 유기동물 매칭 입양 서비스</b> - Front'end & Back'end Developer, <em>2020</em><br><br>
-
-
-#### 💼 Internship
-- <b>한국산업은행 코어금융부 트레이딩팀</b>, <em>2024.10 - 2025.01</em><br><br>
-
-
-#### 📖 Education
-- <b>신한투자증권 프로 디지털 아카데미</b> - Fintech, <em>2025</em><br>
-- <b>SSAC(Seoul Software Academy Cluster)</b> - Android Development, <em>2021</em><br><br>
-
-
-#### 🏄🏻‍♀️ Club
-- <b>대학생 연합 IT 벤처 창업 동아리 SOPT 28th</b> - Android Development, <em>2021</em><br>
-- <b>SK 대학생 자원봉사단 SUNNY</b> - Leader, <em>2018 - 2019</em><br><br>
-
-
+<!--
 #### 💡 More About ME!
-<div>
+-->
+<!-- <div>
   <a href="https://www.instagram.com/jiyeooonee/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
   <a href="https://velog.io/@morgankim"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white"/></a>
   <a href="https://m5rgank2m.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/>
 </div>
-<br><br>
+-->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todayiswindy)](https://github.com/todayiswindy/github-readme-stats)
