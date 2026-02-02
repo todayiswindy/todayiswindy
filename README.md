@@ -21,6 +21,10 @@
 - **[Yanado](링크)** : 경매, 공동구매 서비스 - Back'end Developer, *2021*
 - **[Somdongzi](링크)** : 유기동물 매칭 입양 서비스 - Back'end Developer, *2020*
 
+#### 🏆 Awards
+- **최우수상** : 프로 디지털 아카데미 6기 최종 프로젝트 발표, *2025.10.24*
+- **대상** : 대학생 IT벤처 창업 연합 SOPT에서 주관한 모바일/웹 어플리케이션 해커톤 APPJAM, *2021.07.31*
+
 #### 📖 Education
 - **신한투자증권 프로 디지털 아카데미** - Fintech, *2025*
 - **SSAC(Seoul Software Academy Cluster)** - Android Development, *2021*
